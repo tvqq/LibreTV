@@ -21,13 +21,6 @@ const API_SITES = {
   },
 };
 
-const API_SITES = {
-  innerSource: {
-    api: "https://www.hongniuzy3.com/api.php/provide/vod/",
-    name: "红牛",
-    adult: false,
-  },
-};
 
 // 定义合并方法
 function extendAPISites(newSites) {
