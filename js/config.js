@@ -17,27 +17,22 @@ const API_SITES = {
   innerSource: {
     api: "http://caiji.dyttzyapi.com/api.php/provide/vod",
     name: "电影天堂",
-    adult: false,
   },
   ryzy: {
     api: "https://cj.rycjapi.com/api.php/provide/vod/",
     name: "如意资源",
-    adult: false,
   },
   hnzy: {
     api: "https://www.hongniuzy3.com/api.php/provide/vod/",
     name: "红牛资源",
-    adult: false,
   },
      mtzy: {
     api: "https://caiji.maotaizy.cc/api.php/provide/vod/",
     name: "茅台资源",
-    adult: false,
   },
      mdzy: {
     api: "https://www.mdzyapi.com/api.php/provide/vod/",
     name: "魔都资源",
-    adult: false,
   },
 };
 
