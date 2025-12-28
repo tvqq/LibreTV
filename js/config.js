@@ -32,12 +32,12 @@ const API_SITES = {
      mtzy: {
     api: "https://caiji.maotaizy.cc/api.php/provide/vod/",
     name: "茅台资源",
-    adult: true,
+    adult: false,
   },
      mdzy: {
     api: "https://www.mdzyapi.com/api.php/provide/vod/",
     name: "魔都资源",
-    adult: true,
+    adult: false,
   },
 };
 
