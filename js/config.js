@@ -21,6 +21,14 @@ const API_SITES = {
   },
 };
 
+const API_SITES = {
+  innerSource: {
+    api: "https://www.hongniuzy3.com/api.php/provide/vod/",
+    name: "红牛",
+    adult: false,
+  },
+};
+
 // 定义合并方法
 function extendAPISites(newSites) {
   Object.assign(API_SITES, newSites);
@@ -118,4 +126,4 @@ const CUSTOM_API_CONFIG = {
 };
 
 // 隐藏内置黄色采集站API的变量
-const HIDE_BUILTIN_ADULT_APIS = true;
+const HIDE_BUILTIN_ADULT_APIS = false;
