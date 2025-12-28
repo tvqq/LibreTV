@@ -16,23 +16,23 @@ const SITE_CONFIG = {
 const API_SITES = {
   innerSource: {
     api: "http://caiji.dyttzyapi.com/api.php/provide/vod",
-    name: "电影天堂",
+    name: "电影天堂"
   },
   ryzy: {
     api: "https://cj.rycjapi.com/api.php/provide/vod/",
-    name: "如意资源",
+    name: "如意资源"
   },
   hnzy: {
     api: "https://www.hongniuzy3.com/api.php/provide/vod/",
-    name: "红牛资源",
+    name: "红牛资源"
   },
      mtzy: {
     api: "https://caiji.maotaizy.cc/api.php/provide/vod/",
-    name: "茅台资源",
+    name: "茅台资源"
   },
      mdzy: {
     api: "https://www.mdzyapi.com/api.php/provide/vod/",
-    name: "魔都资源",
+    name: "魔都资源"
   },
     bfzy: {
         api: 'https://bfzyapi.com/api.php/provide/vod',
