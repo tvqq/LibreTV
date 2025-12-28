@@ -34,6 +34,10 @@ const API_SITES = {
     api: "https://www.mdzyapi.com/api.php/provide/vod/",
     name: "魔都资源",
   },
+    bfzy: {
+        api: 'https://bfzyapi.com/api.php/provide/vod',
+        name: '暴风资源'
+    },
 };
 
 
