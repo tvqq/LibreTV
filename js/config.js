@@ -19,6 +19,11 @@ const API_SITES = {
     name: "电影天堂",
     adult: false,
   },
+     hnzy: {
+    api: "https://www.hongniuzy3.com/api.php/provide/vod/",
+    name: "红牛资源",
+    adult: false,
+  },
 };
 
 
